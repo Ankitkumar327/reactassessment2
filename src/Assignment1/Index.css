@@ -1,0 +1,83 @@
+html,
+body {
+  background-color: aqua;
+}
+
+.minus {
+  color: royalblue;
+  font-size: xx-large;
+  text-align: center;
+}
+
+.first {
+  width: 250px;
+  height: 50px;
+  border: 1px solid black;
+  border-radius: 25px;
+  background-color: orangered;
+  color: blue;
+  position: absolute;
+  left: 25%;
+  top: 15%;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: larger;
+}
+.second {
+  width: 250px;
+  height: 50px;
+  border: 1px solid black;
+  border-radius: 25px;
+  background-color: orangered;
+  color: blue;
+  position: absolute;
+  left: 57%;
+  top: 15%;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.fourth {
+  color: rgb(104, 10, 10);
+  font-weight: bold;
+  font-size: larger;
+}
+
+.box1 {
+  width: 450px;
+  height: 150px;
+  border: 3px solid green;
+  border-radius: 15px;
+  background-color: lightgreen;
+  position: absolute;
+  left: 10%;
+  top: 35%;
+  text-align: center;
+}
+
+.box2 {
+  width: 450px;
+  height: 150px;
+  border: 3px solid green;
+  border-radius: 15px;
+  background-color: lightskyblue;
+  position: absolute;
+  left: 57%;
+  top: 35%;
+  text-align: center;
+}
+
+.third {
+  color: coral;
+  font-weight: bolder;
+  font-size: larger;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.fourth {
+  color: coral;
+  font-weight: bolder;
+  font-size: larger;
+  font-family: "Times New Roman", Times, serif;
+}
