@@ -1,13 +1,11 @@
-import React from "react";
-import FormC from "./form";
-import "./index.css";
+import React, { Component } from "react";
 
-const App = () => {
-  return (
-    <>
-      <FormC />
-    </>
-  );
-};
+import Form from "./Form";
+
+export class App extends Component {
+  render() {
+    return <Form />;
+  }
+}
 
 export default App;
